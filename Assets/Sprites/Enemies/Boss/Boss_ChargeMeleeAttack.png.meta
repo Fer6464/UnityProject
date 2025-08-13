@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: d85cffa1b9ea671449d77f02d65cf956
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5345653843424633111
+    second: Boss_ChargeMeleeAttack_0
+  - first:
+      213: -8487966910018732103
+    second: Boss_ChargeMeleeAttack_1
+  - first:
+      213: 2731969797164957180
+    second: Boss_ChargeMeleeAttack_2
+  - first:
+      213: 2760006832708381044
+    second: Boss_ChargeMeleeAttack_3
+  - first:
+      213: 538505660594232218
+    second: Boss_ChargeMeleeAttack_4
+  - first:
+      213: 4631403921286515324
+    second: Boss_ChargeMeleeAttack_5
+  - first:
+      213: -2113988445391060426
+    second: Boss_ChargeMeleeAttack_6
+  - first:
+      213: -2007854483744000778
+    second: Boss_ChargeMeleeAttack_7
+  - first:
+      213: 8567449273566449322
+    second: Boss_ChargeMeleeAttack_8
+  - first:
+      213: 2051850071472732405
+    second: Boss_ChargeMeleeAttack_9
+  - first:
+      213: 5448372781057261418
+    second: Boss_ChargeMeleeAttack_10
+  - first:
+      213: 4403457188305868783
+    second: Boss_ChargeMeleeAttack_11
+  - first:
+      213: -4823784701266110810
+    second: Boss_ChargeMeleeAttack_12
+  - first:
+      213: -4762028668258325251
+    second: Boss_ChargeMeleeAttack_13
+  - first:
+      213: 3832296564115639293
+    second: Boss_ChargeMeleeAttack_14
+  - first:
+      213: 7124449735221505134
+    second: Boss_ChargeMeleeAttack_15
+  - first:
+      213: -7793896847676962403
+    second: Boss_ChargeMeleeAttack_16
+  - first:
+      213: 2635382862299672112
+    second: Boss_ChargeMeleeAttack_17
+  - first:
+      213: 2267883701909273233
+    second: Boss_ChargeMeleeAttack_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boss_ChargeMeleeAttack_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 7
+        width: 82
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee1972e62c60d5b0800000000000000
+      internalID: -5345653843424633111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_ChargeMeleeAttack_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 7
+        width: 82
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf3017011fa43a80800000000000000
+      internalID: -8487966910018732103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_ChargeMeleeAttack_2
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 7
+        width: 82
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfdfc115e08e9e520800000000000000
+      internalID: 2731969797164957180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_ChargeMeleeAttack_3
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 7
+        width: 82
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479eb3957938d4620800000000000000
+      internalID: 2760006832708381044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_ChargeMeleeAttack_4
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 7
+        width: 82
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b91419b08297700800000000000000
+      internalID: 538505660594232218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_ChargeMeleeAttack_5
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 7
+        width: 82
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a42a3045d064040800000000000000
+      internalID: 4631403921286515324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_ChargeMeleeAttack_6
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 7
+        width: 84
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6328f2595ba99a2e0800000000000000
+      internalID: -2113988445391060426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_ChargeMeleeAttack_7
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 7
+        width: 85
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f473cf2cfaa224e0800000000000000
+      internalID: -2007854483744000778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_ChargeMeleeAttack_8
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 7
+        width: 85
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae4b16d8b1b5e670800000000000000
+      internalID: 8567449273566449322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_ChargeMeleeAttack_9
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 7
+        width: 85
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8fd72d4c2a97c10800000000000000
+      internalID: 2051850071472732405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_ChargeMeleeAttack_10
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 7
+        width: 84
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f33da7d228c9b40800000000000000
+      internalID: 5448372781057261418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_ChargeMeleeAttack_11
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 7
+        width: 83
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe79c947bf83c1d30800000000000000
+      internalID: 4403457188305868783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_ChargeMeleeAttack_12
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 7
+        width: 82
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6d1182f597e0db0800000000000000
+      internalID: -4823784701266110810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_ChargeMeleeAttack_13
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 7
+        width: 82
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc6c321820e9edb0800000000000000
+      internalID: -4762028668258325251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_ChargeMeleeAttack_14
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 7
+        width: 80
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb0012bb6d0f2530800000000000000
+      internalID: 3832296564115639293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_ChargeMeleeAttack_15
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 7
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ce00889412fd260800000000000000
+      internalID: 7124449735221505134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_ChargeMeleeAttack_16
+      rect:
+        serializedVersion: 2
+        x: 2258
+        y: 7
+        width: 78
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d998d226c1486d390800000000000000
+      internalID: -7793896847676962403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_ChargeMeleeAttack_17
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 7
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e268a10c2c29420800000000000000
+      internalID: 2635382862299672112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_ChargeMeleeAttack_18
+      rect:
+        serializedVersion: 2
+        x: 2540
+        y: 7
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a333c0634297f10800000000000000
+      internalID: 2267883701909273233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Boss_ChargeMeleeAttack_0: -5345653843424633111
+      Boss_ChargeMeleeAttack_1: -8487966910018732103
+      Boss_ChargeMeleeAttack_10: 5448372781057261418
+      Boss_ChargeMeleeAttack_11: 4403457188305868783
+      Boss_ChargeMeleeAttack_12: -4823784701266110810
+      Boss_ChargeMeleeAttack_13: -4762028668258325251
+      Boss_ChargeMeleeAttack_14: 3832296564115639293
+      Boss_ChargeMeleeAttack_15: 7124449735221505134
+      Boss_ChargeMeleeAttack_16: -7793896847676962403
+      Boss_ChargeMeleeAttack_17: 2635382862299672112
+      Boss_ChargeMeleeAttack_18: 2267883701909273233
+      Boss_ChargeMeleeAttack_2: 2731969797164957180
+      Boss_ChargeMeleeAttack_3: 2760006832708381044
+      Boss_ChargeMeleeAttack_4: 538505660594232218
+      Boss_ChargeMeleeAttack_5: 4631403921286515324
+      Boss_ChargeMeleeAttack_6: -2113988445391060426
+      Boss_ChargeMeleeAttack_7: -2007854483744000778
+      Boss_ChargeMeleeAttack_8: 8567449273566449322
+      Boss_ChargeMeleeAttack_9: 2051850071472732405
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

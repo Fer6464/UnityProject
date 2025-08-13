@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 6441175cb4b91f644b928d444b8abcbc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1631530540006624366
+    second: Boss_ChargeRangedAttack_0
+  - first:
+      213: 2975403208419486717
+    second: Boss_ChargeRangedAttack_1
+  - first:
+      213: -3755992545365867906
+    second: Boss_ChargeRangedAttack_2
+  - first:
+      213: 2514890129266878622
+    second: Boss_ChargeRangedAttack_3
+  - first:
+      213: 2230190154383375113
+    second: Boss_ChargeRangedAttack_4
+  - first:
+      213: 7367842540377888114
+    second: Boss_ChargeRangedAttack_5
+  - first:
+      213: -7416838926413795039
+    second: Boss_ChargeRangedAttack_6
+  - first:
+      213: -6439683943544621717
+    second: Boss_ChargeRangedAttack_7
+  - first:
+      213: 4584266749826527591
+    second: Boss_ChargeRangedAttack_8
+  - first:
+      213: 5661260257940416967
+    second: Boss_ChargeRangedAttack_9
+  - first:
+      213: 5239694011923861850
+    second: Boss_ChargeRangedAttack_10
+  - first:
+      213: 5874644810576280032
+    second: Boss_ChargeRangedAttack_11
+  - first:
+      213: 7372775012521712873
+    second: Boss_ChargeRangedAttack_12
+  - first:
+      213: 1910427010595829858
+    second: Boss_ChargeRangedAttack_13
+  - first:
+      213: -6841559138012348104
+    second: Boss_ChargeRangedAttack_14
+  - first:
+      213: 4277650973588526734
+    second: Boss_ChargeRangedAttack_15
+  - first:
+      213: -6617276105882077580
+    second: Boss_ChargeRangedAttack_16
+  - first:
+      213: 8263533078852800210
+    second: Boss_ChargeRangedAttack_17
+  - first:
+      213: -4005035178255760810
+    second: Boss_ChargeRangedAttack_18
+  - first:
+      213: 66321829652038400
+    second: Boss_ChargeRangedAttack_19
+  - first:
+      213: 2406470655902413037
+    second: Boss_ChargeRangedAttack_20
+  - first:
+      213: 7976483149937763922
+    second: Boss_ChargeRangedAttack_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boss_ChargeRangedAttack_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 96
+        width: 69
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29334ba3e93ab59e0800000000000000
+      internalID: -1631530540006624366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_ChargeRangedAttack_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 12
+        width: 67
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfba6652471ca4920800000000000000
+      internalID: 2975403208419486717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_ChargeRangedAttack_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 12
+        width: 67
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72c37a1ea800ebc0800000000000000
+      internalID: -3755992545365867906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_ChargeRangedAttack_3
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 12
+        width: 67
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98a6148f3fa6e220800000000000000
+      internalID: 2514890129266878622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_ChargeRangedAttack_4
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 12
+        width: 67
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b389d112a33fe10800000000000000
+      internalID: 2230190154383375113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_ChargeRangedAttack_5
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 12
+        width: 67
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2755c3401c5df3660800000000000000
+      internalID: 7367842540377888114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_ChargeRangedAttack_6
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 12
+        width: 67
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121f0d2ea48121990800000000000000
+      internalID: -7416838926413795039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_ChargeRangedAttack_7
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 12
+        width: 67
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b657c3f7295a1a6a0800000000000000
+      internalID: -6439683943544621717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_ChargeRangedAttack_8
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 12
+        width: 67
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7617b0b02569e9f30800000000000000
+      internalID: 4584266749826527591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_ChargeRangedAttack_9
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 12
+        width: 67
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9239fb536d09e40800000000000000
+      internalID: 5661260257940416967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_ChargeRangedAttack_10
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 12
+        width: 67
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51967851f127b840800000000000000
+      internalID: 5239694011923861850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_ChargeRangedAttack_11
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 12
+        width: 67
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9bdfb745ee68150800000000000000
+      internalID: 5874644810576280032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_ChargeRangedAttack_12
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 12
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec9b3eafcb515660800000000000000
+      internalID: 7372775012521712873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_ChargeRangedAttack_13
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 12
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26830e78e33338a10800000000000000
+      internalID: 1910427010595829858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_ChargeRangedAttack_14
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 12
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83142fc4636ed01a0800000000000000
+      internalID: -6841559138012348104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_ChargeRangedAttack_15
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 13
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8619d185e44d5b30800000000000000
+      internalID: 4277650973588526734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_ChargeRangedAttack_16
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 12
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476f7380176ba24a0800000000000000
+      internalID: -6617276105882077580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_ChargeRangedAttack_17
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 12
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de06ba9d87fda270800000000000000
+      internalID: 8263533078852800210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_ChargeRangedAttack_18
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 12
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6524f1799b14b68c0800000000000000
+      internalID: -4005035178255760810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_ChargeRangedAttack_19
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 12
+        width: 73
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00383494a5f9be000800000000000000
+      internalID: 66321829652038400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_ChargeRangedAttack_20
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 12
+        width: 73
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0f67fbf40856120800000000000000
+      internalID: 2406470655902413037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_ChargeRangedAttack_21
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 12
+        width: 73
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256ede4e92922be60800000000000000
+      internalID: 7976483149937763922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 121e2b90c608a00458c8e512f0cb6570
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Boss_ChargeRangedAttack_0: -1631530540006624366
+      Boss_ChargeRangedAttack_1: 2975403208419486717
+      Boss_ChargeRangedAttack_10: 5239694011923861850
+      Boss_ChargeRangedAttack_11: 5874644810576280032
+      Boss_ChargeRangedAttack_12: 7372775012521712873
+      Boss_ChargeRangedAttack_13: 1910427010595829858
+      Boss_ChargeRangedAttack_14: -6841559138012348104
+      Boss_ChargeRangedAttack_15: 4277650973588526734
+      Boss_ChargeRangedAttack_16: -6617276105882077580
+      Boss_ChargeRangedAttack_17: 8263533078852800210
+      Boss_ChargeRangedAttack_18: -4005035178255760810
+      Boss_ChargeRangedAttack_19: 66321829652038400
+      Boss_ChargeRangedAttack_2: -3755992545365867906
+      Boss_ChargeRangedAttack_20: 2406470655902413037
+      Boss_ChargeRangedAttack_21: 7976483149937763922
+      Boss_ChargeRangedAttack_3: 2514890129266878622
+      Boss_ChargeRangedAttack_4: 2230190154383375113
+      Boss_ChargeRangedAttack_5: 7367842540377888114
+      Boss_ChargeRangedAttack_6: -7416838926413795039
+      Boss_ChargeRangedAttack_7: -6439683943544621717
+      Boss_ChargeRangedAttack_8: 4584266749826527591
+      Boss_ChargeRangedAttack_9: 5661260257940416967
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
