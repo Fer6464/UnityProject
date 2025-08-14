@@ -9,6 +9,7 @@ TagManager:
   - EnemyGenerator
   - BattleWall
   - Bullet
+  - Duff
   layers:
   - Default
   - TransparentFX
