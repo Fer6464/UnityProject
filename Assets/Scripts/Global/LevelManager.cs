@@ -32,7 +32,7 @@ public class LevelManager : MonoBehaviour
         if (nextSceneIndex < SceneManager.sceneCountInBuildSettings)
         {
             Debug.Log("Cargando siguiente nivel...");
-            SceneManager.LoadScene(0);
+            SceneManager.LoadScene("SampleScene");
         }
         else
         {
@@ -43,6 +43,6 @@ public class LevelManager : MonoBehaviour
     }
    public void skiptutorial()
     {
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene("SampleScene");
     }
 }

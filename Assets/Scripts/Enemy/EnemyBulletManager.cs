@@ -4,7 +4,6 @@ public class EnemyBulletManager : MonoBehaviour
 {
     [SerializeField] private float bulletSpeed = 10f;
     public int damage = 1;
-
     public float knockbackForce = 0f;
     public float knockBackTime = 0.25f;
     public float stunTime = 0f;

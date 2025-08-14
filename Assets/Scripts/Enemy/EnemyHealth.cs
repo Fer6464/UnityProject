@@ -4,12 +4,10 @@ public class EnemyHealth : MonoBehaviour
 {
     public int currentHealth;
     public int maxHealth;
-
     private PlayerPointsManager playerPointsManager;
     private EnemyMovement enemyMovement;
-    private EnemyKnockback enemyKnockback;
     private BoxCollider2D bc;
-    
+    private AudioSource audioSource;
     void Start()
     {
         currentHealth = maxHealth;
@@ -17,8 +15,8 @@ public class EnemyHealth : MonoBehaviour
         playerPointsManager = GetComponent<PlayerPointsManager>();
         GameObject player = GameObject.FindWithTag("Player");
         playerPointsManager = player.GetComponent<PlayerPointsManager>();
-        enemyKnockback = GetComponent<EnemyKnockback>();
         playerPointsManager = GetComponent<PlayerPointsManager>();
+        audioSource = GetComponent<AudioSource>();
         bc = GetComponent<BoxCollider2D>();
     }
 
@@ -29,7 +27,7 @@ public class EnemyHealth : MonoBehaviour
         {
             currentHealth = maxHealth;
         }
-        else if (currentHealth < 0)
+        else if (currentHealth <= 0)
         {
             //Destroy(gameObject , 5);
             enemyMovement.ChangeState(EnemyState.Defeated);
@@ -37,6 +35,11 @@ public class EnemyHealth : MonoBehaviour
         }
     }
 
+    public void DeadSound()
+    {
+        audioSource.Play();
+    }
+    
     public void Die()
     {
         enemyMovement.Defeated();

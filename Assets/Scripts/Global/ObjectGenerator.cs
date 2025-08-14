@@ -11,6 +11,8 @@ public class ObjectGenerator : MonoBehaviour
     public float rangoMinY = -2f;
     public float rangoMaxY = 2f;
     public float waitTime = 5f;
+    private float rangeStart = 7f;
+    private float rangeEnd = 14f;
     PlayerPointsManager playerPointsManager;
     public GameObject[] prefabs;
 
@@ -29,13 +31,36 @@ public class ObjectGenerator : MonoBehaviour
             float posicionYAleatoria = Random.Range(centroY + rangoMinY, centroY + rangoMaxY);
             Vector2 posicionDeGeneracion = new Vector2(transform.position.x, posicionYAleatoria);
             Instantiate(
-                prefabs[Random.Range(0, prefabs.Length)],
+                prefabs[Random.Range(0 , 2)],
                 posicionDeGeneracion,
                 Quaternion.identity
             );
             playerPointsManager.addEnemiesToDefeat();
             yield return new WaitForSeconds(waitTime);
             num++;
+        }
+    }
+
+    public void minionsGen()
+    {
+
+        StartCoroutine(SpawnMinionCouroutine());
+
+    }
+
+    IEnumerator SpawnMinionCouroutine()
+    {
+        while (true)
+        {
+            float centroY = transform.position.y;
+            float posicionYAleatoria = Random.Range(centroY + rangoMinY, centroY + rangoMaxY);
+            Vector2 posicionDeGeneracion = new Vector2(transform.position.x, posicionYAleatoria);
+            Instantiate(
+                prefabs[2],
+                posicionDeGeneracion,
+                Quaternion.identity
+            );
+            yield return new WaitForSeconds(Random.Range(rangeStart,rangeEnd));
         }
     }
 

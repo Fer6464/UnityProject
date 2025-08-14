@@ -103,16 +103,18 @@ public class PlayerAttack : MonoBehaviour
             }
             int randomIndex = Random.Range(0, hitSounds.Length);
             AudioClip actualSoundFX = hitSounds[randomIndex];
-            myHitSound.PlayOneShot(actualSoundFX, 0.5f);
+            myHitSound.PlayOneShot(actualSoundFX, 0.3f);
             foreach (Collider2D enemy in enemies)
             {
                 if (enemy.isTrigger)
                     continue;
 
                 EnemyHealth health = enemy.GetComponent<EnemyHealth>();
+                BossHealth bossHealth = enemy.GetComponent<BossHealth>();
                 if (health != null)
                     health.ChangeHealth(-damage);
-
+                if (bossHealth != null)
+                    bossHealth.ChangeHealth(-damage);
                 EnemyKnockback knock = enemy.GetComponent<EnemyKnockback>();
                 if (knock != null)
                     knock.Knockback(transform, knockbackForce, knockBackTime, stunTime);

@@ -9,13 +9,16 @@ public class PlayerMovement : MonoBehaviour
     Animator anim;
     public PlayerAttack playerAttack;
     public PlayerState playerState;
-
+    public AudioClip knockbackCry;
     private Coroutine stunCoroutine;
     private Vector2 movement;
+    private AudioSource audioSource;
+
     void Start()
     {
-        rb  = GetComponent<Rigidbody2D>();
+        rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
+        audioSource = GetComponent<AudioSource>();
     }
 
     void Update()
@@ -68,6 +71,7 @@ public class PlayerMovement : MonoBehaviour
         if (playerState != PlayerState.Defeated)
         {
             ChangeState(PlayerState.Knockback);
+            audioSource.PlayOneShot(knockbackCry, 1.5f);
             stunCoroutine = StartCoroutine(StunTimer(knockBackTime, stunTime));
             Vector2 direction = new Vector2(transform.position.x - enemy.position.x, 0).normalized;
             rb.linearVelocity = direction * knockbackForce;

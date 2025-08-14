@@ -1,0 +1,424 @@
+fileFormatVersion: 2
+guid: 8399d28f6c812094eb57b73415c19077
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9002064464854780584
+    second: Boss_Second_Phase_0
+  - first:
+      213: -1809330795739191623
+    second: Boss_Second_Phase_1
+  - first:
+      213: -1159859724393088374
+    second: Boss_Second_Phase_2
+  - first:
+      213: -7501624347248591634
+    second: Boss_Second_Phase_3
+  - first:
+      213: -2214758112751172043
+    second: Boss_Second_Phase_4
+  - first:
+      213: -7610478159465954462
+    second: Boss_Second_Phase_5
+  - first:
+      213: 2498851174692126807
+    second: Boss_Second_Phase_6
+  - first:
+      213: -2455777126877710019
+    second: Boss_Second_Phase_7
+  - first:
+      213: -8232573743280615830
+    second: Boss_Second_Phase_8
+  - first:
+      213: -6101747170380398951
+    second: Boss_Second_Phase_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boss_Second_Phase_0
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 26
+        width: 67
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -40}
+        - {x: 47.5, y: 0}
+        - {x: 0, y: 40}
+        - {x: -47.5, y: 0}
+      physicsShape:
+      - - {x: 0, y: -40}
+        - {x: 47.5, y: 0}
+        - {x: 0, y: 40}
+        - {x: -47.5, y: 0}
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855f92f601e321380800000000000000
+      internalID: -9002064464854780584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Second_Phase_1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 83
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -40}
+        - {x: 47.5, y: 0}
+        - {x: 0, y: 40}
+        - {x: -47.5, y: 0}
+      physicsShape:
+      - - {x: 0, y: -40}
+        - {x: 47.5, y: 0}
+        - {x: 0, y: 40}
+        - {x: -47.5, y: 0}
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b66ace3a37f3e6e0800000000000000
+      internalID: -1809330795739191623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Second_Phase_2
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 90
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -40}
+        - {x: 47.5, y: 0}
+        - {x: 0, y: 40}
+        - {x: -47.5, y: 0}
+      physicsShape:
+      - - {x: 0, y: -40}
+        - {x: 47.5, y: 0}
+        - {x: 0, y: 40}
+        - {x: -47.5, y: 0}
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a7442d9b957efe0800000000000000
+      internalID: -1159859724393088374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Second_Phase_3
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 91
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -40}
+        - {x: 47.5, y: 0}
+        - {x: 0, y: 40}
+        - {x: -47.5, y: 0}
+      physicsShape:
+      - - {x: 0, y: -40}
+        - {x: 47.5, y: 0}
+        - {x: 0, y: 40}
+        - {x: -47.5, y: 0}
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec73d7c660e4e790800000000000000
+      internalID: -7501624347248591634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Second_Phase_4
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 86
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8838ee621c48d174b95df82313449e14
+      internalID: -366757241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Second_Phase_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 26
+        width: 67
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6721084b2b7fc419910761e4944406
+      internalID: 1610495642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Second_Phase_6
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8664cc37786204ca3fba053e37564f
+      internalID: 1899038470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Second_Phase_7
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 26
+        width: 67
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0278acb42aee647bd5298598b5780b
+      internalID: 23871319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Second_Phase_8
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 83
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf13df0c6930dc48ab831988331935c
+      internalID: 1826447367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Second_Phase_9
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 26
+        width: 67
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01908864abb1a104185eec5fe9719177
+      internalID: -153826151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6e047243415e880489068c0451c1d7f5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":95.0,"y":80.0},"gridSpriteOffset":{"x":6.0,"y":16.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Boss_Second_Phase_0: -9002064464854780584
+      Boss_Second_Phase_1: -1809330795739191623
+      Boss_Second_Phase_2: -1159859724393088374
+      Boss_Second_Phase_3: -7501624347248591634
+      Boss_Second_Phase_4: -366757241
+      Boss_Second_Phase_5: 1610495642
+      Boss_Second_Phase_6: 1899038470
+      Boss_Second_Phase_7: 23871319
+      Boss_Second_Phase_8: 1826447367
+      Boss_Second_Phase_9: -153826151
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -10,6 +10,9 @@ TagManager:
   - BattleWall
   - Bullet
   - Duff
+  - MusicPlayer
+  - Collectable
+  - Minion
   layers:
   - Default
   - TransparentFX

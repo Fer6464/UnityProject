@@ -44,10 +44,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bca8185c4f2a3524c9f735de6028282b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  generationLimit: 2
+  generationLimit: 3
   rangoMinY: -2.5
   rangoMaxY: 2.5
-  waitTime: 5
+  waitTime: 6
   prefabs:
   - {fileID: 7000121644073838612, guid: 38cf7c273055a574b90c28424f7ae0b1, type: 3}
   - {fileID: 1849958834046587069, guid: 6d9655f434805584ab8711c0ff175230, type: 3}
+  - {fileID: 4538347978332565089, guid: 70543dcbd90ded946adbfcca48f347f3, type: 3}

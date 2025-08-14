@@ -34,7 +34,7 @@ public class BossMovement : MonoBehaviour
 
     void Update()
     {
-        if (bossState != BossState.Defeated)
+        if (bossState != BossState.Defeated && bossState != BossState.SecondPhase)
         {
                 CheckForPlayer();
                 if (attackCooldownTimer > 0)
@@ -157,8 +157,7 @@ public class BossMovement : MonoBehaviour
         anim.SetBool("isChargedMelee", false);
         anim.SetBool("isRangeAttacking", false);
         anim.SetBool("isChargedRange", false);
-        //anim.SetBool("isKnockback", false);
-        //anim.SetBool("isStunned", false);
+        anim.SetBool("isSecondPhase", false);
         anim.SetBool("isDefeated", false);
 
         // 2. Actualiza al nuevo estado
@@ -185,9 +184,13 @@ public class BossMovement : MonoBehaviour
             case BossState.ChargedRange:
                 anim.SetBool("isChargedRange", true);
                 break;
+            case BossState.SecondPhase:
+                anim.SetBool("isSecondPhase", true);
+                break;
             case BossState.Defeated:
                 anim.SetBool("isDefeated", true);
                 break;
+            
         }
     }
     
@@ -210,6 +213,7 @@ public enum BossState
     ChargedMelee,
     RangeAttacking,
     ChargedRange,
+    SecondPhase,
     Defeated
 }
 
