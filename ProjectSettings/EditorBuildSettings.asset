@@ -8,6 +8,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Inicio.unity
+    guid: a54ba6c09e5cade408fac3b4f81b2adc
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: daef7328b9bb3a04c867fa6d33b24d5d
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: e7e70275247b9e84eaeb8816ce8188e0
+  - enabled: 1
+    path: Assets/Scenes/Victory.unity
+    guid: 5bc81de68e1f415459ea5fab8ad94d57
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 5d9f88b8e49ee774695ec1ea2eabc606, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: a8e945cf16cd7734c9a8da360ca5d2e1, type: 3}
